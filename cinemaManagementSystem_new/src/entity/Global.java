@@ -40,7 +40,7 @@ public class Global {
         receptionist.setEmail("11@163.com");
         receptionist.setName("福西西");
         receptionist.setPassword("0616");
-        receptionist.setPhone("13131216262");
+        receptionist.setPhone("15291216262");
         receptionist.setUsername("receptionist");
         Date date = new Date();
         String strDateFormat = "yyyy-MM-dd HH:mm:ss";
