@@ -26,7 +26,7 @@ public class Global {
      * 初始化管理员数据信息
      */
     private static void initAdmins() {
-        Admin admin = new Admin("admin", "123", "张三", "133", "133");
+        Admin admin = new Admin("admin", "123", "管理员小王", "133", "133");
         admins.add(admin);
     }
 
@@ -38,8 +38,8 @@ public class Global {
     private static void initReceptionists() {
         Receptionist receptionist = new Receptionist();
         receptionist.setEmail("11@163.com");
-        receptionist.setName("莉丝");
-        receptionist.setPassword("123");
+        receptionist.setName("福西西");
+        receptionist.setPassword("0616");
         receptionist.setPhone("13131216262");
         receptionist.setUsername("receptionist");
         Date date = new Date();
